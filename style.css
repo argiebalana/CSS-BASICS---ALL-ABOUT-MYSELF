@@ -1,0 +1,43 @@
+body{
+    background-image: url('compass.png');
+    background-position: center;
+}
+.args{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#head{
+    text-align: center;
+    color: navy;
+
+}
+h1,h2{
+    text-align: center;
+}
+figcaption{text-align: center;}
+p{
+text-align: center;
+margin-left: 130px;
+margin-right: 130px;
+color: darkolivegreen;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#foot{
+    color: black;
+}
+#beak{
+    text-align: center;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
